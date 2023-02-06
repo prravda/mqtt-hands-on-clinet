@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/prravda/mqtt-hands-on-clinet#readme",
   "dependencies": {
+    "async-mqtt": "^2.6.3",
     "mqtt": "^4.3.7"
   }
 }
