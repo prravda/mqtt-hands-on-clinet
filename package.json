@@ -2,7 +2,7 @@
   "name": "mqtt-hands-on-clinet",
   "version": "1.0.0",
   "description": "mqtt client hands on using mqtt.js ",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
