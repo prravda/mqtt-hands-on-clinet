@@ -4,6 +4,7 @@
   "description": "mqtt client hands on using mqtt.js ",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
@@ -23,5 +24,8 @@
   "dependencies": {
     "async-mqtt": "^2.6.3",
     "mqtt": "^4.3.7"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3"
   }
 }
